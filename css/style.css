@@ -78,14 +78,14 @@ img:hover {
   max-height: 300%;
 }
 
-.column:nth-of-type(1n) {
+.container.amiable.column:nth-of-type(1n) {
   grid-column-start: 1;
   grid-column-end: 1;
   grid-row-start: 1;
   grid-row-end: 3;
 }
 
-.column:nth-of-type(2n) {
+.container.amiable.column(2n) {
   grid-column-start: 2;
   grid-column-end: 2;
   grid-row-start: 1;
