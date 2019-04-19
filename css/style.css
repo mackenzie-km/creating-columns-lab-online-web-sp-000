@@ -9,7 +9,6 @@ body, html {
 }
 
 .container, h1 {
-  box-sizing: border-box;
   width: 80%;
   max-width: 600px;
   min-width: 400px;
