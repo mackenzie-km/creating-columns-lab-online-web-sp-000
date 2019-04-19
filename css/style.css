@@ -70,8 +70,8 @@ img:hover {
 }
 
 .large {
-  min-width: 300%;
-  min-height: 300%;
-  max-width: 300%;
-  max-height: 300%;
+  min-width: 250%;
+  min-height: 250%;
+  max-width: 250%;
+  max-height: 250%;
 }
