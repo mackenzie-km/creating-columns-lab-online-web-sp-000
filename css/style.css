@@ -77,3 +77,7 @@ img:hover {
   max-width: 300%;
   max-height: 300%;
 }
+
+.column img[src*="bay_of_pigs"]{
+
+}
