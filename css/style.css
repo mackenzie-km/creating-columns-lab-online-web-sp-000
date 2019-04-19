@@ -58,6 +58,7 @@ img:hover {
 /* create your tile classes! we recommend .small .med .large */
 
 .small {
+  display: grid;
   min-width: 100%;
   min-height: 100%;
   max-width: 100%;
