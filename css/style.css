@@ -71,6 +71,8 @@ img:hover {
   min-height: 200%;
   max-width: 200%;
   max-height: 200%;
+  grid-column: 2fr;
+  grid-row: 2fr;
 }
 
 .large {
@@ -78,6 +80,6 @@ img:hover {
   min-height: 300%;
   max-width: 300%;
   max-height: 300%;
-  grid-column: 1/2;
-  grid-row: 1;
+  grid-column: 3fr;
+  grid-row: 3fr;
 }
