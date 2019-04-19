@@ -82,3 +82,8 @@ img:hover {
   grid-column: 1 / 3;
   grid-row: 1 / 3;
 }
+
+.column:nth-of-type(nn) {
+  grid-column: 1 / 3;
+  grid-row: 1 / 3;
+}
