@@ -78,6 +78,11 @@ img:hover {
   max-height: 300%;
 }
 
-.column {
-  background-color: red;
-}
+.column :nth-of-type(1n) {
+    grid-column-start: 1;
+    grid-column-end: 1;
+    grid-row-start: 1;
+    grid-row-end: 3;
+  }
+
+  
