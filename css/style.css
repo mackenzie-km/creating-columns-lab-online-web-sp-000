@@ -78,16 +78,6 @@ img:hover {
   max-height: 300%;
 }
 
-.container.amiable.column:nth-of-type(1n) {
-  grid-column-start: 1;
-  grid-column-end: 1;
-  grid-row-start: 1;
-  grid-row-end: 3;
-}
-
-.container.amiable.column:nth-of-type(2n) {
-  grid-column-start: 2;
-  grid-column-end: 2;
-  grid-row-start: 1;
-  grid-row-end: 3;
+.container.amiable.column {
+  background-color: red;
 }
