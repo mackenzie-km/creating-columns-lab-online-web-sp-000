@@ -70,6 +70,7 @@ img:hover {
   min-height: 200%;
   max-width: 200%;
   max-height: 200%;
+  grid-column: span 2;
 }
 
 .large {
